@@ -12,5 +12,6 @@ Soundpack Ordner downloaden und im Verzeichnis der TS3 Instalation unter "sound"
     - Hans_TTS
         - 1.0 Standartsounds mit TTS Hans
         - 1.1 "you were banned" = "Immer han I die Pech!"
+        - 1.2 "you were banned" = "Oh Nein, immer han I die Pech!"
    
 Viel Spaß :3
